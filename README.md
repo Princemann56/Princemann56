@@ -4,4 +4,4 @@ Hi, I'm Prince Mann, a passionate self-taught full stack web developer from indi
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 💬 ask me about anything, i am happy to help; do reach, [email](usernamecopied5656@gmail.com) :)
+- 💬 ask me about anything, i am happy to help; do reach, [email](mailto:usernamecopied5656@gmail.com) :)
