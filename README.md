@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **JavaScript/C/C++/Python/NodeJs/ReactJs/Express**
+- 💬 Ask me about **JavaScript/C/C++/NodeJs/ReactJs/Express**
 
 - 📫 How to reach me **princemann56@gmail.com**
 
